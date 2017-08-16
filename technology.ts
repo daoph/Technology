@@ -21,6 +21,7 @@ let aJax = new Technology(6,'AJAX','Low',true);
 let jSon = new Technology(7,'jSon','Medium',true);
 let typeScript = new Technology(8,'TypeScript','Low',true);
 
+console.log (git.Technology)
 
 var techArr[git,html,css,javaScript,jQ,aJax,jSon,typeScript]
 
